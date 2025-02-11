@@ -1,0 +1,26 @@
+PID: 21398 START: 1739240102772839168 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: version [sid=repo-20250211T021502Z-P00005396/repo-20250211T021502Z-P00005396]
+
+PID: 21398 START: 1739240102775319552 :: parsing /home/tsbj/.gitconfig
+
+PID: 21398 END: 1739240102807287296 :: parsing /home/tsbj/.gitconfig
+
+PID: 21398 START: 1739240102828575744 :: parsing /home/tsbj/test/.repo/repo/.git/config
+
+PID: 21398 END: 1739240102829355264 :: parsing /home/tsbj/test/.repo/repo/.git/config
+
+PID: 21398 START: 1739240102842563840 :git command /home/tsbj/test/.repo/repo/.git ['git', 'describe', 'HEAD'] with debug: : export GIT_DIR=/home/tsbj/test/.repo/repo/.git
+: git describe HEAD 1>| 2>|
+
+PID: 21398 END: 1739240102867577088 :git command /home/tsbj/test/.repo/repo/.git ['git', 'describe', 'HEAD'] with debug: : export GIT_DIR=/home/tsbj/test/.repo/repo/.git
+: git describe HEAD 1>| 2>|
+
+PID: 21398 START: 1739240102868748544 :git command /home/tsbj/test/.repo/repo/.git ['git', 'log', '-1', '--format=%cD', 'HEAD'] with debug: : git log -1 --format=%cD HEAD 1>| 2>|
+
+PID: 21398 END: 1739240102877465600 :git command /home/tsbj/test/.repo/repo/.git ['git', 'log', '-1', '--format=%cD', 'HEAD'] with debug: : git log -1 --format=%cD HEAD 1>| 2>|
+
+PID: 21398 START: 1739240102878954752 :git command /home/tsbj/test/.repo/repo/.git ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 21398 END: 1739240102886315264 :git command /home/tsbj/test/.repo/repo/.git ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 21398 END: 1739240102886897152 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: version [sid=repo-20250211T021502Z-P00005396/repo-20250211T021502Z-P00005396]
+
